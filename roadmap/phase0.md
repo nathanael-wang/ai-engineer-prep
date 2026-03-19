@@ -1,6 +1,6 @@
 # Phase 0（Week 1–2)
 
-## 🎯 目標
+## 🎯 Target
 - 恢復 Python coding 手感
 - 建立基本 algorithm 認知
 - 開始 LeetCode 節奏
@@ -27,7 +27,7 @@
 
 ---
 
-## 💻 LeetCode（必做）
+## 💻 LeetCode
 
 - Two Sum
 - Valid Anagram
@@ -41,7 +41,7 @@
 
 ## ✅ To-Do Checklist
 
-### 每日
+### Daily
 - [ ] 學 1 個 algorithm（30–40 min）
 - [ ] 刷 2–3 題 LeetCode
 - [ ] 寫 complexity（時間/空間）
@@ -49,14 +49,14 @@
 
 ---
 
-### 每週
+### Weekly
 - [ ] 重寫 3–5 題
 - [ ] 建立 2–3 個 templates（hash / two pointers / sliding window）
 - [ ] 整理錯題
 
 ---
 
-## 🎯 完成標準
+## 🎯 Achievement
 - 可以不查語法寫 Python
 - 理解基本解題模式
 - 完成 25–35 題
