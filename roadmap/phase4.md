@@ -1,6 +1,6 @@
 # Phase 4（Week 19–24）— 面試準備（Apple 導向）
 
-## 🎯 目標
+## 🎯 Target
 - 通過 AI Engineer 面試
 - 準備投遞 Apple / 大廠
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 面試準備
+### Interview-prep
 - Mock Interview
 - ML Q&A
 - Behavioral
@@ -43,7 +43,7 @@
 
 ## ✅ To-Do Checklist
 
-### 每日
+### Daily
 - [ ] 限時刷題（45 min）
 - [ ] 練習講解思路
 - [ ] 複習 ML 概念
@@ -51,7 +51,7 @@
 
 ---
 
-### 每週
+### Weekly
 - [ ] Mock interview（2 次）
 - [ ] 練 system design（1–2 題）
 - [ ] 優化 GitHub project
@@ -59,7 +59,7 @@
 
 ---
 
-## 🎯 完成標準
+## 🎯 Achievement
 - 能完成完整面試流程
 - 能講清楚 project
 - ready to apply
