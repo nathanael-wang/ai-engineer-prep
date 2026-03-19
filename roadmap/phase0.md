@@ -1,4 +1,4 @@
-# Phase 0（Week 1–2）— Coding 重啟期
+# Phase 0（Week 1–2)
 
 ## 🎯 目標
 - 恢復 Python coding 手感
