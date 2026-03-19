@@ -1,6 +1,6 @@
 # Phase 1（Week 3–8）— DSA 核心建立
 
-## 🎯 目標
+## 🎯 Target
 - 建立 LeetCode Medium 解題能力
 - 建立 pattern recognition
 - 建立 templates 系統
@@ -32,7 +32,7 @@
 
 ---
 
-## 💻 LeetCode（核心題）
+## 💻 LeetCode
 
 ### Tree
 - Maximum Depth of Binary Tree
@@ -59,7 +59,7 @@
 
 ## ✅ To-Do Checklist
 
-### 每日
+### Daily
 - [ ] 刷 2–3 題 Medium
 - [ ] 口述解題思路
 - [ ] 分析 complexity
@@ -67,7 +67,7 @@
 
 ---
 
-### 每週
+### Weekly
 - [ ] 重寫 5 題
 - [ ] 建立 templates：
   - [ ] sliding window
@@ -78,7 +78,7 @@
 
 ---
 
-## 🎯 完成標準
+## 🎯 Achievement
 - Medium 題不會卡太久
 - 能辨認題型
 - 有完整 template 庫
