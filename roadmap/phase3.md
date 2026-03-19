@@ -1,6 +1,6 @@
 # Phase 3（Week 13–18）— AI Engineer 能力
 
-## 🎯 目標
+## 🎯 Target
 - 從 ML 轉向 Engineering
 - 建立可展示的 project
 - 學會部署模型
@@ -49,7 +49,7 @@
 
 ## ✅ To-Do Checklist
 
-### 每日
+### Daily
 - [ ] 刷 2 題 LeetCode
 - [ ] 寫 project code（30–60 min）
 - [ ] debug / 優化
@@ -57,7 +57,7 @@
 
 ---
 
-### 每週
+### Weekly
 - [ ] 完成 project 一部分功能
 - [ ] 更新 README
 - [ ] 記錄：
@@ -67,7 +67,7 @@
 
 ---
 
-## 🎯 完成標準
+## 🎯 Achievement
 - 完成 2 個 project
 - 能部署 API
 - GitHub 有完整 project
