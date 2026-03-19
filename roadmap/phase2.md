@@ -1,6 +1,6 @@
 # Phase 2（Week 9–12）— ML Fundamentals
 
-## 🎯 目標
+## 🎯 Target
 - 建立 ML 基礎知識（面試可用）
 - 能解釋模型與 metrics
 - 保持 LeetCode 手感
@@ -46,7 +46,7 @@
 
 ## ✅ To-Do Checklist
 
-### 每日
+### Daily
 - [ ] 學 1 個 ML 概念
 - [ ] 刷 2 題 LeetCode
 - [ ] 更新 ML notes
@@ -54,14 +54,14 @@
 
 ---
 
-### 每週
+### Weekly
 - [ ] 完成 1 個 notebook（ML 實驗）
 - [ ] 解釋模型 + metrics
 - [ ] 重寫 LeetCode 錯題
 
 ---
 
-## 🎯 完成標準
+## 🎯 Achievement
 - 能回答 ML 面試問題
 - 有 ML 筆記（ml-notes）
 - 理解模型與評估方式
