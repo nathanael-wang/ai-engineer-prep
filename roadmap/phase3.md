@@ -42,6 +42,18 @@
 
 ---
 
+## 維持刷
+- Graph ⭐⭐⭐
+- Heap
+- DP（簡單）
+- Tree
+
+## 可補
+- Trie（NLP相關會用）
+- Bit Manipulation（少量）
+
+---
+
 ## 💻 LeetCode
 - 每天 2 題 Medium（維持）
 
