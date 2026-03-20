@@ -14,6 +14,21 @@
 
 ---
 
+### 必熟
+- Sliding Window
+- Graph（含 BFS/DFS）
+- Tree
+- Binary Search
+- Heap
+- DP
+
+### 補強（選擇性）
+- Topological Sort ⭐
+- Union-Find ⭐
+- Trie ⭐
+
+---
+
 ### ML System Design
 - Recommendation System
 - Ranking System
