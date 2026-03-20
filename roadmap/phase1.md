@@ -17,13 +17,17 @@
 - Binary Tree
 - Heap
 - Graph（基礎）
+- recursion
+- deque
+- defaultdict
+- class（linked list / tree）
 
 ---
 
 ### Algorithms
 - Binary Search
 - Sliding Window（進階）
-- BFS / DFS
+- Tree (BFS / DFS)
 - Recursion / Backtracking
 - Prefix Sum
 - Intervals
@@ -59,10 +63,16 @@
 
 ## ✅ To-Do Checklist
 
-### Daily
-- [ ] 刷 2–3 題 Medium
+### Daily - weekdays 2hrs
+- [ ] 學 1 個 algorithm（30–40 min）
+- [ ] 刷 2-3 題 Medium
 - [ ] 口述解題思路
 - [ ] 分析 complexity
+- [ ] 更新 daily log
+### Daily - weekend 4hrs
+- [ ] 學 1 個 algorithm（30–40 min）
+- [ ] 刷 5-6 題(medium)
+- [ ] 寫 complexity（時間/空間）
 - [ ] 更新 daily log
 
 ---
