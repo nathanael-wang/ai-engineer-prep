@@ -22,10 +22,14 @@
 ---
 
 ### Algorithm
-- Hash map
-- Two pointers
+- Array
+- String
+- Hash Table
+- HashMap
+- Two Pointers
 - Sliding window（入門）
 - Stack（基礎）
+- Recursion（概念）
 
 ---
 
