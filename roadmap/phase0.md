@@ -13,9 +13,11 @@
 - list / dict / set / tuple
 - string 操作
 - sorting（lambda / key）
+- enumerate
 - collections（Counter / defaultdict / deque）
 - heapq（基礎）
 - recursion（概念）
+- list slicing
 
 ---
 
@@ -27,7 +29,7 @@
 
 ---
 
-## 💻 LeetCode
+## 💻 LeetCode - Easy(Major) + Medium(Minor)
 
 - Two Sum
 - Valid Anagram
@@ -41,9 +43,14 @@
 
 ## ✅ To-Do Checklist
 
-### Daily
+### Daily - Weekdays 2hrs
 - [ ] 學 1 個 algorithm（30–40 min）
-- [ ] 刷 2–3 題 LeetCode
+- [ ] 刷 2題 LeetCode(easy) + 1題(medium)
+- [ ] 寫 complexity（時間/空間）
+- [ ] 更新 daily log
+### Daily - weekend 4hrs
+- [ ] 學 1 個 algorithm（30–40 min）
+- [ ] 刷 2題 LeetCode(easy) + 3題(medium)
 - [ ] 寫 complexity（時間/空間）
 - [ ] 更新 daily log
 
@@ -59,4 +66,4 @@
 ## 🎯 Achievement
 - 可以不查語法寫 Python
 - 理解基本解題模式
-- 完成 25–35 題
+- 完成 50–75 題
