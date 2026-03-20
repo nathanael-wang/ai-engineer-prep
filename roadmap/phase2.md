@@ -46,9 +46,14 @@
 
 ## ✅ To-Do Checklist
 
-### Daily
+### Daily - weekdays
 - [ ] 學 1 個 ML 概念
-- [ ] 刷 2 題 LeetCode
+- [ ] 刷 2 題 LeetCode(medium)
+- [ ] 更新 ML notes
+- [ ] 更新 daily log
+### Daily - weekends 
+- [ ] 學 1 個 ML 概念
+- [ ] 刷 4 題 LeetCode(medium)
 - [ ] 更新 ML notes
 - [ ] 更新 daily log
 
