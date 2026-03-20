@@ -32,6 +32,30 @@
 
 ---
 
+### Algorithms
+🟢 必學
+- Binary Search ⭐⭐
+- Tree (BFS / DFS) ⭐⭐⭐
+- Recursion / Backtracking
+- Topological Sort（基礎）
+- DP（入門）
+- Array
+- String
+- Hash Table
+- Two Pointers
+- Sliding Window（進階) ⭐⭐⭐
+- Stack
+- Depth-First Search ⭐⭐⭐
+- Breadth-First Search ⭐⭐⭐
+- Heap (Priority Queue) ⭐⭐
+- Prefix Sum
+- Intervals（在 Sorting/Array裡）
+
+🟡 中階（後半段學）
+- Graph ⭐⭐
+- Backtracking ⭐
+- Dynamic Programming（入門） ⭐
+
 ### Coding
 - pandas / numpy
 - sklearn pipeline
