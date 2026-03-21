@@ -9,8 +9,6 @@
 3. 用什麼data structure：
 
 ---
-
-## Patterns
 - Two Sum
   Hint: 找兩個數相加 = target
         轉換成什麼：
