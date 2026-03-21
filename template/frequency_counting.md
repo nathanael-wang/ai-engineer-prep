@@ -39,6 +39,7 @@ for x in B:
     count[x] -= 1
 
 return True
+```
 
 ---
 
