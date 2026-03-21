@@ -10,7 +10,7 @@
 
 ---
 - Two Sum
-  -- Hint: 找兩個數相加 = target
+  - Hint: 找兩個數相加 = target
         轉換成什麼：
         y = target - x
   -- Pattern: One-Pass Hash Map
