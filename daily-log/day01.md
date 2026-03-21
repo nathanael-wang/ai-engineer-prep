@@ -10,9 +10,8 @@
 
 ---
 - Two Sum
-  - Hint: 找兩個數相加 = target
-        轉換成什麼：
-        y = target - x
+  - Hint: 1. 找兩個數相加 = target
+        2. 轉換成什麼：y = target - x
   - Pattern: One-Pass Hash Map
               - Time complexity: O(n)
               - Space complexity: O(n)
