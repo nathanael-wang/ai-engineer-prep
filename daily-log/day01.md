@@ -14,3 +14,6 @@
   ### One-Pass Hash Map
   ### Complement = target - x
    
+- Valid Anagram
+
+- Contains Duplicate
