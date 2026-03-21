@@ -2,5 +2,8 @@
 
 ## Hash Map
 
+
 ## Leetcode
-1. Two Sum
+- Two Sum
+  ### One-Pass hash map
+   
