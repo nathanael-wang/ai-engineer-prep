@@ -1,7 +1,4 @@
-
----
-
-# 📄 `hashset_seen_before.md`
+# hashset_seen_before.md
 
 ```md
 # Hash Set (Seen Before) Pattern
