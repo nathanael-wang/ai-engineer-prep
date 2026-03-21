@@ -1,4 +1,4 @@
-# hashset_seen_before.md
+# HashSet_Seen_Before Pattern
 
 ```md
 # Hash Set (Seen Before) Pattern
