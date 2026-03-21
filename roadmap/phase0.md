@@ -54,7 +54,7 @@
 - [ ] 更新 daily log
 ### Daily - weekend 4hrs
 - [ ] 學 1 個 algorithm（30–40 min）
-- [ ] 刷 2題 LeetCode(easy) + 3題(medium)
+- [ ] 刷 2題 LeetCode(easy) + 2題(medium)
 - [ ] 寫 complexity（時間/空間）
 - [ ] 更新 daily log
 
