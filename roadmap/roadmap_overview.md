@@ -14,7 +14,7 @@ Become an interview-ready AI Engineer:
 
 ## 🧱 Phase Breakdown
 
-| Phase | Duration | Focus |
+| Phase | Duration | Focus | Link |
 |------|--------|------|------|
 | Phase 0–1 | Week 1–8 | Coding Interview Mastery | [Phase 0](./phase0.md)  [Phase 1](./phase1.md) |
 | Phase 2 | Week 9–12 | ML Fundamentals | [Phase 2](./phase2.md) |
